@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "357879226774",
+    "firebase_url": "https://post8-2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "post8-2",
+    "storage_bucket": "post8-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357879226774:android:0c73ca1df237ed84163db7",
+        "android_client_info": {
+          "package_name": "com.fadhil_068.post82"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWDORE1yhwcW_bNvDX1NTwKIWkeFzfBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
